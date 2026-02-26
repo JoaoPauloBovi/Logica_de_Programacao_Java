@@ -1,4 +1,4 @@
-public class Main {
+public class inicio_hello_world {
     public static void main(String[] args) {
 
         String hello = "Olá";
