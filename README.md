@@ -17,4 +17,5 @@ Consolidar a base lógica necessária para a transição para a Programação Or
 
     Curso: Lógica de Programação e Algoritmos.
 
-    Professor: Prof. Nélio Alves.
+    Professor: Nélio Alves.
+
